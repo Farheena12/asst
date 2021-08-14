@@ -3,7 +3,7 @@
 ## TECHNOLORDS
 
 #### Team Members 
-1.Chinmay Chougule
+1.Chinmay Chougule                                                        
 2.Vedant Kulkarni
 3.Pranav Deshpande
 
